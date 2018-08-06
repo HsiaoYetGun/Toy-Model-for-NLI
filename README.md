@@ -8,7 +8,7 @@ I utlized biLSTM and a structured self attention to encode both premise and hypo
 
 # Model Architecture
 
-![model](https://github.com/HsiaoYetGun/Toy-Model-for-NLI/fig/model.jpg)
+![model](https://github.com/HsiaoYetGun/Toy-Model-for-NLI/tree/master/fig/model.jpg)
 
 # References
 
